@@ -1,6 +1,8 @@
 # work-organization-katie-will
 tips to organizing research
-Katie
+BEN
 I am a statistics graduate student
 lectures, homework, organization
 planner, google docs, computer files
+
+# I've edited katie's document.
